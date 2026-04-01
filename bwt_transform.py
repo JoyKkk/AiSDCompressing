@@ -1,4 +1,4 @@
-from bwt_transform import bwt_encode, bwt_decode_fast
+from bwt import bwt_encode, bwt_decode
 import os
 
 BLOCK_SIZE = 5000
